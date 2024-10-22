@@ -1,0 +1,18 @@
+{
+    "extensionName": {
+        "message": "Enlever la barre latérale Wikimédia",
+        "description": "Nom de l'extension."
+    },
+    "extensionDescription": {
+        "message": "Enlève la barre latérale sur Wikipédia, Commons, Wikilivres, Wikiquote, Wikisource... et d'autres sites de Wikimédia.",
+        "description": "Description de l'extension."
+    },
+    "statusCheckboxLabel": {
+        "message": "Supression de la barre latérale Wikimédia activée :",
+        "description": "Label de la case qui change le statut de l'extension (activée/désactivée)."
+    },
+    "popupTitle": {
+        "message": "Paramètres",
+        "description": "Titre de la popup."
+    }
+}

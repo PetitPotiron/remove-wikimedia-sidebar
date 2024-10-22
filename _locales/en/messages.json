@@ -1,0 +1,18 @@
+{
+    "extensionName": {
+        "message": "Remove Wikimedia Sidebar",
+        "description": "Name of the extension."
+    },
+    "extensionDescription": {
+        "message": "Removes the sidebar on Wikipedia, Commons, Wikibooks, Wikiquote, Wikisource... and other Wikimedia websites.",
+        "description": "Description of the extension."
+    },
+    "statusCheckboxLabel": {
+        "message": "Removal of the Wikimedia sidebar enabled:",
+        "description": "Label of the checkbox which changes the status (enabled/disabled) of the extension."
+    },
+    "popupTitle": {
+        "message": "Settings",
+        "description": "Title of the popup."
+    }
+}
